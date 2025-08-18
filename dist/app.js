@@ -69,8 +69,6 @@ const sanitizeXSS = (req, _res, next) => {
         }
     };
     req.body = JSON.parse(JSON.stringify(req.body || {}));
-    req.query = JSON.parse(JSON.stringify(req.query || {}));
-    req.params = JSON.parse(JSON.stringify(req.params || {}));
     sanitize(req.body);
     sanitize(req.query);
     sanitize(req.params);
