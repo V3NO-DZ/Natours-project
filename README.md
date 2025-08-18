@@ -50,7 +50,7 @@ Linting: ESLint
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/yourusername/natours.git
+git clone https://github.com/V3NO-DZ/natours.git
 cd natours
 npm install
 
