@@ -13,22 +13,23 @@ Authentication & authorization
 
 MVC architecture
 
-✨ Features
+🔑 Key Features
 
-🔐 User authentication and authorization (JWT, roles: user, admin, guide)
+🔐 User authentication & authorization (JWT, roles: user, admin, guide)
 
 🗺️ Tour browsing with advanced filtering, sorting, and pagination
 
-⭐ User reviews and ratings for tours
+⭐ User reviews & ratings for tours
 
 💳 Booking system with Stripe payment integration
 
-🔑 Secure password reset and email notifications
+🔑 Secure password reset & email notifications
 
-🎨 Responsive, modern UI with Pug templates and custom CSS
+🧪 API testing with Postman
 
-📘 RESTful API with Swagger documentation
+📘 RESTful API documented with Swagger
 
+🎨 Responsive UI with Pug templates & custom CSS
 🛠 Tech Stack
 
 Backend: Node.js, Express, TypeScript
